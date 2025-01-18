@@ -1,0 +1,6 @@
+@OSAT_HostAddress = http://localhost:5009
+
+GET {{OSAT_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
